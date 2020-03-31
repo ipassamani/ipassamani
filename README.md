@@ -1,1 +1,4 @@
-# ipassamani
+# Olá mundo!
+Eu me chamo Igor Passamani, sou publicitário especialista em Marketing e estou aqui para aprender a programar. Meu objetivo é migrar minha carreira profissional de vez para alguma área desse novo universo tecnológico que se coloca a nossa frente. Resolvi começar aprendendo Python e estudar mais sobre programação para unir essas novas habilidades ao meu conhecimento atual e criar novos rumos.
+
+Obrigado! Vamos juntos?
